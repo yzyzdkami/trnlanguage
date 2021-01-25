@@ -1,13 +1,8 @@
 # tu-redo-naten
 
-#### 介绍
-人造语言
-
-#### 说明
-
-
-
-#### 参与贡献
+#### Introduce
+This is a language is made by person.
+We make this web to store our grammar,word,font,etc.
 
 
 
