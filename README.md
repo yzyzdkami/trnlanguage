@@ -1,3 +1,15 @@
-# Tu-Redo-Naten
-This is a project about a new language is made by person.
-We set up this web to store the grammar,word,and the font of the language
+# tu-redo-naten
+
+#### 介绍
+人造语言
+
+#### 说明
+
+
+
+#### 参与贡献
+
+
+
+
+

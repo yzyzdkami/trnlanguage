@@ -1,0 +1,13 @@
+#gotop{
+    position: fixed;
+    display: none;
+    right: 0;
+    bottom: 0;
+}
+#gotop img{
+    width: 40px;
+    height: 40px;
+}
+#gotop img:hover{
+    cursor: pointer;
+}
